@@ -1,4 +1,4 @@
 .wrapper{width:1200px;margin:auto}
 .logo{width:70px;height:auto;margin:30px}
-.panel{width:390px;margin:5px;box-shadow:2px 2px #999;height:350px;2px 4px 12px #999;float:left}
-h2{text-align:center}
+.panel{width:390px;margin:5px;box-shadow:2px 2px #999;height:350px;box-shadow:2px 4px 12px #999;float:left}
+h2{text-align:center;margin:auto}
