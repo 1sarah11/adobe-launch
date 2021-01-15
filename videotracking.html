@@ -2,6 +2,10 @@
 <html>
 <head>
 <link href="style.css" rel="stylesheet">
+ <script>
+  var MyCustomEvent = new CustomEvent('Video Start');  
+  document.querySelector('body').dispatchEvent(MyCustomEvent);
+  </script>
 <script src="//assets.adobedtm.com/ee2879bff7d5/06774bb59410/launch-4f7c5cd72c2e-development.min.js" async></script>
 </head>
 <body>
